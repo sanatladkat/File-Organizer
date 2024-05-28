@@ -1,4 +1,5 @@
 # File Organizer
+[link to my medium article](https://arsanatl.medium.com/tackling-the-clutter-how-python-can-organize-your-files-b5d816bdd7b8)
 
 This Python script provides a graphical interface to organize files in your Desktop, Downloads, and any custom folder. It categorizes files by type into separate folders, helping you maintain a clean and organized digital workspace.
 
@@ -83,7 +84,7 @@ To create an executable using PyInstaller, follow these steps:
 
 3. The executable will be created in the `dist` directory.
 
-## Download executable : [Download File Organizer](File_Organizer.exe)
+### Download executable : [Download File Organizer](File_Organizer.exe)
 
 ## Contributing
 
