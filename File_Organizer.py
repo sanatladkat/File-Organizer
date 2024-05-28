@@ -100,7 +100,7 @@ def handle_collision(source_file, destination_folder):
 
 
 def open_github_repo(event):
-    webbrowser.open_new("https://github.com/yourusername/yourrepository")
+    webbrowser.open_new("https://github.com/sanatladkat/File-Organizer")
 
 
 def main():
@@ -109,8 +109,8 @@ def main():
     root.geometry("250x200")  # Set the default window size to 400x200 pixels
 
     # Load custom thumbnail
-    #thumbnail = tk.PhotoImage(file="logo.png")
-    #root.iconphoto(True, thumbnail)  # Set as application icon
+    thumbnail = tk.PhotoImage(file="logo.png")
+    root.iconphoto(True, thumbnail)  # Set as application icon
 
     # Style
     style = ttk.Style()
